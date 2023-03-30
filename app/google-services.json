@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40534388975",
+    "project_id": "testwizeline1",
+    "storage_bucket": "testwizeline1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40534388975:android:c7a6b70bd8ed41a1f8eb1a",
+        "android_client_info": {
+          "package_name": "curso.wizeline2023.wizeline_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40534388975-83547uu7cn6i3av8644c1i9ij4sub164.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "curso.wizeline2023.wizeline_1",
+            "certificate_hash": "5e1607ace0e1e001642b77fba13a822fb72f4f35"
+          }
+        },
+        {
+          "client_id": "40534388975-n20gibn609q84rog80vj62gi5pbjo576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NuqlGVgZGCAVRp6ls0yKN8KQ3Q9VUvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40534388975-n20gibn609q84rog80vj62gi5pbjo576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
